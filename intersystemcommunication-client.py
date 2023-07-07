@@ -1,4 +1,4 @@
-
+# CLient Program to send data from server to client in order to achieve about 100Mbps speed between 2 different systems
 import socket
 import time
 
