@@ -1,4 +1,4 @@
-#Program to send data from server to client in order to achieve about 100Mbps speed between 2 different systems for multiple speeds dated 17th July
+#Program to send data from server to client in order to achieve about 100Mbps speed between 2 different systems for multiple speeds dated 11th July
 
 import socket
 import time
