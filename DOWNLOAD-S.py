@@ -1,4 +1,4 @@
-#The program to send multiple calls of upload data dated 17th July
+#The program to send multiple calls of upload data dated 11th July
 import socket
 import time
 
